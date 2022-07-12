@@ -8,7 +8,7 @@ def main():
     }
 
     list_of_weather_places = ['https://wttr.in/london',
-                              'https://wtt1r.in/svo',
+                              'https://wttr.in/svo',
                               'https://wttr.in/Череповец']
 
     for weather_place in list_of_weather_places:
